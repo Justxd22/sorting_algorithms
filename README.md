@@ -1,6 +1,6 @@
 # Sorting Algorithms
-hello :]
-# Team PRoject
+Hello :]
+# Team Project
  - TheRealAmr
  - Justxd22
 ## 0. Bubble sort

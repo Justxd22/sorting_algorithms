@@ -1,11 +1,11 @@
 #include "sort.h"
 
 /**
- * insertion_sort_list - Insertion sort algo.
+ * insertion_sort_list - Insertion sort algorithm
  *
  * @list: Linked list to sort
  * No Return
- */
+*/
 void insertion_sort_list(listint_t **list)
 {
 	listint_t *curr, *temp;
